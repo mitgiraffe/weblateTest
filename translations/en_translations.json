@@ -1,0 +1,57 @@
+﻿{
+  "ChangeRequest": {
+    "RequestForChangeLabel": "Request for Change",
+    "ReasonForChangeLabel": "Reason for Change",
+    "ReasonForChangePlaceholderLabel": "Enter reason for change to be implemented",
+    "ChangeLabel": "Change",
+    "ChangePlaceholderLabel": "Describe the change",
+    "CancelButton": "Cancel",
+    "SaveButton": "Submit",
+    "SaveOkText": "Change Request saved.",
+    "ValidationOkText": "All Change request fields pass validation.",
+    "ValidationHeaderText": "The Change request could not be saved.",
+    "ChangeRequestIdColumnText": "Change Request Id",
+    "DateOfRequestColumnText": "Date of Request",
+    "ValidationMessages": {
+      "ChangeTextRequired": "Change is required.",
+      "ReasonForChangeTextRequired": " Reason for change is required."
+    }
+  },
+  "Common": {
+    "FeatureNotImplmented": "The selected feature has not yet been implemented.  Please try again in a future release of the software.",
+    "Wait": {
+      "Instruction": "Please Wait..."
+    },
+    "Maintenance": {
+      "AssignAndCloseButton": "Assign And Close",
+      "SaveButton": "Save Changes",
+      "CancelButton": "Cancel",
+      "UncancelButton": "Uncancel",
+      "CreateButton": "Create",
+      "CloseButton": "Close",
+      "SoftDeleteButton": "Delete",
+      "CopyButton": "Copy",
+      "SaveAndNewButton": "+ Save & New",
+      "UploadReportButton": "Upload Report File",
+      "ValidationHeaderSuffix": "Please correct the following issues to continue:",
+      "NavigationAwayMessage": "There are unsaved changes, are you sure you want to leave?",
+      "ExclusiveConjunctionText": "OR",
+      "InclusiveConjunctionText": "AND",
+      "Search": "Search",
+      "Select": "Select",
+      "MakeAvailable": "Make Available",
+      "AddNewButton": "Add New",
+      "RejectTooltip": "Reject",
+      "ApproveTooltip": "Approve",
+      "EntityAPI": {
+        "CannotFindEntityAPI": "Your change could not be verified.  Please contact application support.",
+        "ChangeDataInvalidInputs": "Your changes could not be verified.  Please contact application support.",
+        "ValidateDataInvalidInputs": "Your data could not be verified.  Please contact application support."
+      },
+      "WhereUsedNoRecords": "No results returned."
+    },
+    "Modal": {
+      "Confirm": "OK",
+      "Cancel": "Cancel"
+    }
+}
