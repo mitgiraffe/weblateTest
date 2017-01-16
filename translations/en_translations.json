@@ -10,5 +10,5 @@
 	"ValidationOkText": "All Change request fields pass validation.",
 	"ValidationHeaderText": "The Change request could not be saved.",
 	"ChangeRequestIdColumnText": "Change Request Id",
-	"DateOfRequestColumnText": "Date of Request",
+	"DateOfRequestColumnText": "Date of Request"
 }
