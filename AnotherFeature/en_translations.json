@@ -1,0 +1,35 @@
+{
+  "Entity": {
+    "Test": {
+      "Applicability": {
+        "FormText": "Applicability*",
+        "ColumnText": "Applicability"
+      },
+      "CreatedOn": {
+        "ColumnText": "Created On",
+        "InputPlaceholder": "Created On",
+        "FormText": "Created On"
+      },
+      "Parents": {
+        "FormText": "Related (Parents)"
+      },
+      "ExternalName": {
+        "InputPlaceholder": "External Name",
+        "FormText": "External Name*"
+      },
+      "LastUsedOn": {
+        "ColumnText": "Last Used On",
+        "InputPlaceholder": "Last Used On",
+        "FormText": "Last Used On"
+      },
+      "ModifiedOn": {
+        "InputPlaceholder": "Modified On",
+        "FormText": "Modified On"
+      },
+      "Status": {
+        "ColumnText": "Status",
+        "FormText": "Status*"
+      }
+    }
+  }
+}
